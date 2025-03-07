@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hannes-ebe.
-- 🌱 I’m currently doing my masters degree in physics at Christian-Albrechts-Universität zu Kiel.
-- 👷 I’m also working as research assistent at the department for extraterrestrial physics.
+- 🌱 I’m currently doing my PhD at the Department for Extraterrestrial Physics at Kiel University.
 - 📫 You can reach me via e-mail: ebeling@physik.uni-kiel.de
 
 <!---
